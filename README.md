@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Ohio, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `489966` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 74 records |
-| Free sample size | 7 records (9.46%) |
-| Last export | 2026-04-08T06:35:33.235999+00:00 |
+| Full dataset size | 52 records |
+| Free sample size | 5 records (9.62%) |
+| Last export | 2026-04-15T10:10:20.847969+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-ohio-us-sample-489966/releases/download/sample-latest/beamstation_489966_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
