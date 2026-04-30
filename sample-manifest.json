@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ef81627d-143d-440f-87a9-c8a321ab1190",
+  "export_job_id": "a442f20b-b7ce-4cb6-8e8c-ceedb91e7f29",
   "id_short": 489966,
-  "published_at": "2026-04-22T19:47:58Z",
+  "published_at": "2026-04-30T07:30:16Z",
   "repo_name": "tech-ready-restaurants-in-ohio-us-sample-489966",
   "sample_asset_name": "beamstation_489966_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/489966/beamstation_489966_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "b10835a8860b4386f3718385316cef1b427485200c205d7c0527c49922ff7134",
-  "sample_size_bytes": 24937,
-  "total_records": 26
+  "sample_records": 12,
+  "sample_sha256": "2ba7323983fcfd6ed10c1207513275a1d5d4ce1333c317cae4a9de5f57a70ce1",
+  "sample_size_bytes": 58428,
+  "total_records": 128
 }
